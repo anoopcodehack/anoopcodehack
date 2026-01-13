@@ -79,10 +79,10 @@ I’m a **2nd year engineering student** actively learning **Data Structures & A
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/anoopcodehack&show_icons=true&theme=dark)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/anoopcodehack&layout=compact&theme=dark)
 
 
 ---
