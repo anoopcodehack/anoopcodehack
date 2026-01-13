@@ -79,9 +79,8 @@ I’m a **2nd year engineering student** actively learning **Data Structures & A
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoopcodehack&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoopcodehack&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoopcodehack&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoopcodehack)
 
 
 
