@@ -22,6 +22,8 @@ I’m a **2nd year engineering student** actively learning **Data Structures & A
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-basic-3776AB?style=for-the-badge&logo=python)
+
 
 ### Frontend
 
