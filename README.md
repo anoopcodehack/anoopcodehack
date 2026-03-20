@@ -355,51 +355,6 @@ current_sprint = {
 
 </div>
 
-<details>
-<summary>⚙️ Click to setup the snake animation</summary>
-
-<br/>
-
-**Step 1:** In your profile repo (`anoopcodehack/anoopcodehack`), create the file:
-`.github/workflows/snake.yml`
-
-**Step 2:** Paste this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: anoopcodehack
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** Go to **Actions tab** → Run workflow manually once → Snake appears! 🎉
-
-</details>
-
-<br/>
-
----
-
 <!-- ══ CONNECT ══ -->
 
 ## 📬 Let's Connect
