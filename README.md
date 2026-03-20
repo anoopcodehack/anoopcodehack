@@ -327,8 +327,6 @@ current_sprint = {
 
 </div>
 
-<br/>
-
 <!-- ══ TROPHIES ══ -->
 
 ## 🏆 GitHub Trophies
