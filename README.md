@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Anoop+A+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎓 2nd Year CS Student &nbsp;|&nbsp; C++ & Web Developer &nbsp;|&nbsp; Mangaluru, India</h3>
+<h3 align="center">🎓 2nd Year CS Student &nbsp;|&nbsp; Mangaluru, India</h3>
 
 <br/>
 
