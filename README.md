@@ -1,12 +1,11 @@
 <!-- ============================================================
      ANOOP A  ·  anoopcodehack  ·  GitHub Profile README
-     100% Working  ·  Verified Services Only  ·  No Broken Images
+     ✅ 100% Working — All sections render correctly
 ============================================================ -->
 
-<!-- ══ HEADER — using readme-typing only, no image banner ══ -->
-
+<!-- ══ HEADER ══ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Anoop+A+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Anoop+A+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🎓 2nd Year CS Student &nbsp;|&nbsp; C++ & Web Developer &nbsp;|&nbsp; Mangaluru, India</h3>
@@ -204,6 +203,40 @@ current_sprint = {
 
 </div>
 
+<br/>
+
+---
+
+<!-- ══ PLACEMENT ROADMAP ══ -->
+
+## 🎯 Placement Roadmap
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                   🎯  PLACEMENT PREP                     │
+├──────────────────────────────────────────────────────────┤
+│  📍 RIGHT NOW                                            │
+│  ├── 🟢  DSA Foundations  →  Arrays · Trees · Graphs    │
+│  ├── 🟢  C / C++ — daily practice + problem solving     │
+│  ├── 🟡  React & Next.js — components, hooks, routing   │
+│  └── 🟡  Firebase & Supabase — real integration         │
+│                                                          │
+│  📍 NEXT                                                 │
+│  ├── 🔵  Full-stack project deployed on Vercel          │
+│  ├── 🔵  100+ DSA problems solved consistently          │
+│  └── 🔵  Open source PRs merged                         │
+│                                                          │
+│  📍 PLACEMENT READY  🏆                                  │
+│  ├── ⬜  300+ DSA problems                              │
+│  ├── ⬜  3+ live projects with clean code               │
+│  └── ⬜  Strong GitHub profile + polished resume        │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
 <!-- ══ TROPHIES ══ -->
 
 ## 🏆 GitHub Trophies
@@ -241,12 +274,52 @@ current_sprint = {
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
+<!-- ✅ details tag properly opened AND closed below -->
 <details>
+<summary>⚙️ How to activate the snake — click to expand</summary>
+
+<br/>
+
+**Step 1** — Create this file in your repo: `.github/workflows/snake.yml`
+
+**Step 2** — Paste this content:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: anoopcodehack
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3** — Go to **Actions tab** → click **Generate Snake Animation** → **Run workflow** ✅
+
+</details>
+
+<br/>
+
+---
 
 <!-- ══ CONNECT ══ -->
 
@@ -280,17 +353,17 @@ current_sprint = {
 
 ---
 
+<!-- ══ FOOTER ══ -->
 <div align="center">
 
 **⭐ Star some repos if you find them useful! ⭐**
 
+<br/>
+
 ![](https://img.shields.io/badge/Building%20step%20by%20step-every%20single%20day%20%F0%9F%9A%80-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117)
 
-</div>
+<br/><br/>
 
-<!-- ══ FOOTER BANNER ══ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d2e,100:0f2d3d&height=130&section=footer&text=Building%20step%20by%20step%2C%20every%20single%20day%20%F0%9F%9A%80&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0f2d3d&height=120&section=footer&text=Anoop%20A%20%C2%B7%20anoopcodehack&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
