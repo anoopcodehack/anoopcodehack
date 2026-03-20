@@ -207,40 +207,6 @@ current_sprint = {
 
 </div>
 
-<br/>
-
----
-
-<!-- ══ PLACEMENT ROADMAP ══ -->
-
-## 🎯 Placement Roadmap
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                   🎯  PLACEMENT PREP                     │
-├──────────────────────────────────────────────────────────┤
-│  📍 RIGHT NOW                                            │
-│  ├── 🟢  DSA Foundations  →  Arrays · Trees · Graphs    │
-│  ├── 🟢  C / C++ — daily practice + problem solving     │
-│  ├── 🟡  React & Next.js — components, hooks, routing   │
-│  └── 🟡  Firebase & Supabase — real integration         │
-│                                                          │
-│  📍 NEXT                                                 │
-│  ├── 🔵  Full-stack project deployed on Vercel          │
-│  ├── 🔵  100+ DSA problems solved consistently          │
-│  └── 🔵  Open source PRs merged                         │
-│                                                          │
-│  📍 PLACEMENT READY  🏆                                  │
-│  ├── ⬜  300+ DSA problems                              │
-│  ├── ⬜  3+ live projects with clean code               │
-│  └── ⬜  Strong GitHub profile + polished resume        │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
 <!-- ══ TROPHIES ══ -->
 
 ## 🏆 GitHub Trophies
