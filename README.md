@@ -235,50 +235,6 @@ current_sprint = {
 
 </div>
 
-<details>
-<summary>⚙️ How to activate the snake animation (click to expand)</summary>
-
-<br/>
-
-**1.** In your profile repo, create this file path:
-```
-.github/workflows/snake.yml
-```
-
-**2.** Paste this content into `snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: anoopcodehack
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**3.** Go to **Actions tab** → click **Generate Snake Animation** → **Run workflow** 🎉
-
-</details>
-
-<br/>
-
----
-
 <!-- ══ CONNECT ══ -->
 
 ## 📬 Let's Connect
