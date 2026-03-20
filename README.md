@@ -2,29 +2,29 @@
      ANOOP A  ·  anoopcodehack  ·  GitHub Profile README
      100% Working  ·  Verified Services Only  ·  No Broken Images
 ============================================================ -->
- 
+
 <!-- ══ HEADER — using readme-typing only, no image banner ══ -->
- 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Anoop+A+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
- 
+
 <h3 align="center">🎓 2nd Year CS Student &nbsp;|&nbsp; C++ & Web Developer &nbsp;|&nbsp; Mangaluru, India</h3>
- 
+
 <br/>
- 
+
 <!-- ══ ANIMATED SUBTITLE ══ -->
 <div align="center">
- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C8F000&center=true&vCenter=true&width=800&lines=DSA+%26+Problem+Solving+in+C+%2F+C%2B%2B+%F0%9F%94%A5;React+%E2%80%A2+Next.js+%E2%80%A2+Firebase+%E2%80%A2+Supabase+%E2%9A%9B%EF%B8%8F;Building+real+projects%2C+not+just+tutorials+%F0%9F%8C%90;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
- 
+
 </div>
- 
+
 <br/>
- 
+
 <!-- ══ STATUS BADGES ══ -->
 <div align="center">
- 
+
 ![](https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=flat-square&logo=checkmarx&logoColor=white)
 &nbsp;
 ![](https://img.shields.io/badge/Location-Mangaluru%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white)
@@ -32,11 +32,11 @@
 ![](https://img.shields.io/badge/Focus-DSA%20%2B%20Full%20Stack-0ea5e9?style=flat-square)
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=anoopcodehack&label=Profile+Views&color=0e75b6&style=flat-square)
- 
+
 </div>
- 
+
 <br/>
- 
+
 ---
 
 <!-- ══ ABOUT ME ══ -->
@@ -79,21 +79,15 @@ const anoop = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anoopcodehack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopcodehack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoopcodehack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopcodehack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopcodehack&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=888888" width="580"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anoopcodehack&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true)](https://github.com/anoopcodehack)
+<img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=anoopcodehack&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 
 </div>
 
@@ -224,7 +218,21 @@ current_sprint = {
 
 ---
 
-<!-- ══ CONTRIBUTION SNAKE ══ -->
+<!-- ══ ACTIVITY GRAPH ══ -->
+
+## 📉 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anoopcodehack&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/anoopcodehack)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══ SNAKE ══ -->
 
 ## 🐍 Contribution Snake
 
@@ -233,10 +241,12 @@ current_sprint = {
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
+
+<details>
 
 <!-- ══ CONNECT ══ -->
 
@@ -251,7 +261,7 @@ current_sprint = {
 <br/>
 
 > 💼 **Open to internships, collaborations & project opportunities.**
-> I respond fast — feel free to reach out! ⚡
+> Feel free to reach out — I respond fast! ⚡
 
 </div>
 
@@ -259,7 +269,7 @@ current_sprint = {
 
 ---
 
-<!-- ══ DEV QUOTE ══ -->
+<!-- ══ QUOTE ══ -->
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -267,6 +277,16 @@ current_sprint = {
 </div>
 
 <br/>
+
+---
+
+<div align="center">
+
+**⭐ Star some repos if you find them useful! ⭐**
+
+![](https://img.shields.io/badge/Building%20step%20by%20step-every%20single%20day%20%F0%9F%9A%80-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117)
+
+</div>
 
 <!-- ══ FOOTER BANNER ══ -->
 <div align="center">
