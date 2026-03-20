@@ -1,39 +1,42 @@
 <!-- ============================================================
      ANOOP A  ·  anoopcodehack  ·  GitHub Profile README
-     ✅ 100% GitHub Compatible — No raw SVG
+     100% Working  ·  Verified Services Only  ·  No Broken Images
 ============================================================ -->
-
-<!-- ══ HEADER BANNER — using capsule-render (GitHub safe) ══ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2d3d,60:0a3d2e,100:0d1117&height=230&section=header&text=Anoop%20A&fontSize=75&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=C%2B%2B%20%26%20Web%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Aspiring%20Software%20Engineer&descFontSize=16&descAlignY=58&descAlign=50&descFontColor=00d9ff&animation=fadeIn&stroke=00d9ff&strokeWidth=1" width="100%"/>
-
-</div>
-
-<!-- ══ TYPING ANIMATION ══ -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+2nd+Year+Engineering+Student+%7C+CS+Branch;%F0%9F%94%A5+DSA+%26+Problem+Solving+in+C+%2F+C%2B%2B;%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+Next.js+%E2%80%A2+Firebase+%E2%80%A2+Supabase;%F0%9F%8C%90+Building+real+projects%2C+not+just+tutorials;%F0%9F%9A%80+Open+to+Internships+%26+Opportunities)](https://git.io/typing-svg)
-
-</div>
-
+ 
+<!-- ══ HEADER — using readme-typing only, no image banner ══ -->
+ 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Anoop+A+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
+ 
+<h3 align="center">🎓 2nd Year CS Student &nbsp;|&nbsp; C++ & Web Developer &nbsp;|&nbsp; Mangaluru, India</h3>
+ 
 <br/>
-
+ 
+<!-- ══ ANIMATED SUBTITLE ══ -->
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C8F000&center=true&vCenter=true&width=800&lines=DSA+%26+Problem+Solving+in+C+%2F+C%2B%2B+%F0%9F%94%A5;React+%E2%80%A2+Next.js+%E2%80%A2+Firebase+%E2%80%A2+Supabase+%E2%9A%9B%EF%B8%8F;Building+real+projects%2C+not+just+tutorials+%F0%9F%8C%90;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+ 
+</div>
+ 
+<br/>
+ 
 <!-- ══ STATUS BADGES ══ -->
 <div align="center">
-
-![](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Internships-2ea44f?style=flat-square)
+ 
+![](https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=flat-square&logo=checkmarx&logoColor=white)
 &nbsp;
-![](https://img.shields.io/badge/%F0%9F%93%8D%20Location-Mangaluru%2C%20India-orange?style=flat-square)
+![](https://img.shields.io/badge/Location-Mangaluru%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white)
 &nbsp;
-![](https://img.shields.io/badge/%F0%9F%8E%AF%20Focus-DSA%20%2B%20Full%20Stack-0ea5e9?style=flat-square)
+![](https://img.shields.io/badge/Focus-DSA%20%2B%20Full%20Stack-0ea5e9?style=flat-square)
 &nbsp;
-![](https://komarev.com/ghpvc/?username=anoopcodehack&label=Profile+Views&color=0d1117&style=flat-square)
-
+![](https://komarev.com/ghpvc/?username=anoopcodehack&label=Profile+Views&color=0e75b6&style=flat-square)
+ 
 </div>
-
+ 
 <br/>
-
+ 
 ---
 
 <!-- ══ ABOUT ME ══ -->
