@@ -97,7 +97,7 @@ I’m a **2nd year engineering student** actively learning **Data Structures & A
 ---
 
 ## 📬 Connect With Me
-
+* Linkedin: https://www.linkedin.com/in/anoop-a-95b7b3331/
 * GitHub: [https://github.com/anoopcodehack/](https://github.com/your-username)
 
 ---
