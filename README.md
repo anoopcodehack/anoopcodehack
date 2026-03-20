@@ -2,7 +2,12 @@
      ANOOP A  ·  anoopcodehack  ·  GitHub Profile README
      ✅ 100% Working — All sections render correctly
 ============================================================ -->
-
+<!-- ══ TOP HEADER BANNER ══ -->
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2d3d,50:0a3d2e,100:0d1117&height=200&section=header&text=Anoop%20A&fontSize=70&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=C%2B%2B%20%26%20Web%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Aspiring%20Software%20Engineer&descFontSize=16&descAlignY=62&descAlign=50&descFontColor=00d9ff&animation=fadeIn" width="100%"/>
+ 
+</div>
 <!-- ══ HEADER ══ -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Anoop+A+%F0%9F%91%8B" alt="Typing SVG" />
