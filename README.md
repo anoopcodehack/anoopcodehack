@@ -1,134 +1,14 @@
 <!-- ============================================================
      ANOOP A  ·  anoopcodehack  ·  GitHub Profile README
-     Placement-Ready  ·  Custom SVG Banner  ·  Professional
+     ✅ 100% GitHub Compatible — No raw SVG
 ============================================================ -->
 
-<!-- ══════════════════════════════════════
-     CUSTOM SVG HEADER BANNER
-     (Inline SVG — works perfectly on GitHub)
-══════════════════════════════════════ -->
-
+<!-- ══ HEADER BANNER — using capsule-render (GitHub safe) ══ -->
 <div align="center">
 
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Main gradient — dark navy to teal/cyan like screenshot -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#0d1117"/>
-      <stop offset="40%"  stop-color="#161b2e"/>
-      <stop offset="75%"  stop-color="#0f2d3d"/>
-      <stop offset="100%" stop-color="#0a3d2e"/>
-    </linearGradient>
-    <!-- Subtle glow behind name -->
-    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
-      <stop offset="0%"   stop-color="#00d9ff" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0"/>
-    </radialGradient>
-    <!-- Bottom wave mask -->
-    <clipPath id="clip">
-      <rect width="900" height="220" rx="16" ry="16"/>
-    </clipPath>
-  </defs>
-
-  <!-- Background -->
-  <rect width="900" height="220" rx="16" ry="16" fill="url(#bg)"/>
-
-  <!-- Glow layer -->
-  <rect width="900" height="220" rx="16" ry="16" fill="url(#glow)"/>
-
-  <!-- Decorative dots grid top-right -->
-  <g opacity="0.12">
-    <circle cx="760" cy="30" r="2" fill="#00d9ff"/>
-    <circle cx="780" cy="30" r="2" fill="#00d9ff"/>
-    <circle cx="800" cy="30" r="2" fill="#00d9ff"/>
-    <circle cx="820" cy="30" r="2" fill="#00d9ff"/>
-    <circle cx="840" cy="30" r="2" fill="#00d9ff"/>
-    <circle cx="860" cy="30" r="2" fill="#00d9ff"/>
-    <circle cx="880" cy="30" r="2" fill="#00d9ff"/>
-    <circle cx="760" cy="50" r="2" fill="#00d9ff"/>
-    <circle cx="780" cy="50" r="2" fill="#00d9ff"/>
-    <circle cx="800" cy="50" r="2" fill="#00d9ff"/>
-    <circle cx="820" cy="50" r="2" fill="#00d9ff"/>
-    <circle cx="840" cy="50" r="2" fill="#00d9ff"/>
-    <circle cx="860" cy="50" r="2" fill="#00d9ff"/>
-    <circle cx="880" cy="50" r="2" fill="#00d9ff"/>
-    <circle cx="760" cy="70" r="2" fill="#00d9ff"/>
-    <circle cx="780" cy="70" r="2" fill="#00d9ff"/>
-    <circle cx="800" cy="70" r="2" fill="#00d9ff"/>
-    <circle cx="820" cy="70" r="2" fill="#00d9ff"/>
-    <circle cx="840" cy="70" r="2" fill="#00d9ff"/>
-  </g>
-
-  <!-- Decorative dots grid bottom-left -->
-  <g opacity="0.08">
-    <circle cx="30"  cy="160" r="2" fill="#c8f000"/>
-    <circle cx="50"  cy="160" r="2" fill="#c8f000"/>
-    <circle cx="70"  cy="160" r="2" fill="#c8f000"/>
-    <circle cx="90"  cy="160" r="2" fill="#c8f000"/>
-    <circle cx="30"  cy="180" r="2" fill="#c8f000"/>
-    <circle cx="50"  cy="180" r="2" fill="#c8f000"/>
-    <circle cx="70"  cy="180" r="2" fill="#c8f000"/>
-    <circle cx="90"  cy="180" r="2" fill="#c8f000"/>
-    <circle cx="30"  cy="200" r="2" fill="#c8f000"/>
-    <circle cx="50"  cy="200" r="2" fill="#c8f000"/>
-    <circle cx="70"  cy="200" r="2" fill="#c8f000"/>
-  </g>
-
-  <!-- Thin horizontal accent line -->
-  <line x1="200" y1="148" x2="700" y2="148" stroke="#00d9ff" stroke-width="0.6" opacity="0.35"/>
-
-  <!-- MAIN NAME -->
-  <text
-    x="450" y="96"
-    font-family="'Segoe UI', system-ui, sans-serif"
-    font-size="68"
-    font-weight="800"
-    fill="#ffffff"
-    text-anchor="middle"
-    letter-spacing="3"
-  >Anoop A</text>
-
-  <!-- SUBTITLE LINE 1 -->
-  <text
-    x="450" y="135"
-    font-family="'Segoe UI', system-ui, sans-serif"
-    font-size="17"
-    font-weight="400"
-    fill="#00d9ff"
-    text-anchor="middle"
-    letter-spacing="1.5"
-  >C++ &amp; Web Developer  ·  CS Student  ·  Aspiring Software Engineer</text>
-
-  <!-- SUBTITLE LINE 2 -->
-  <text
-    x="450" y="170"
-    font-family="'Segoe UI', system-ui, sans-serif"
-    font-size="13"
-    font-weight="300"
-    fill="rgba(255,255,255,0.45)"
-    text-anchor="middle"
-    letter-spacing="2.5"
-  >MANGALURU, INDIA  ·  anoopcodehack  ·  he/him</text>
-
-  <!-- Bottom wave shape -->
-  <path
-    d="M0 185 Q225 165 450 185 Q675 205 900 185 L900 220 L0 220 Z"
-    fill="rgba(0,217,255,0.05)"
-  />
-  <path
-    d="M0 195 Q225 178 450 195 Q675 212 900 195 L900 220 L0 220 Z"
-    fill="rgba(200,240,0,0.04)"
-  />
-
-  <!-- Small lime accent dot -->
-  <circle cx="448" cy="112" r="3" fill="#c8f000" opacity="0.7"/>
-  <circle cx="452" cy="112" r="3" fill="#c8f000" opacity="0.7"/>
-
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2d3d,60:0a3d2e,100:0d1117&height=230&section=header&text=Anoop%20A&fontSize=75&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=C%2B%2B%20%26%20Web%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Aspiring%20Software%20Engineer&descFontSize=16&descAlignY=58&descAlign=50&descFontColor=00d9ff&animation=fadeIn&stroke=00d9ff&strokeWidth=1" width="100%"/>
 
 </div>
-
-<br/>
 
 <!-- ══ TYPING ANIMATION ══ -->
 <div align="center">
@@ -139,7 +19,7 @@
 
 <br/>
 
-<!-- ══ QUICK STATUS BADGES ══ -->
+<!-- ══ STATUS BADGES ══ -->
 <div align="center">
 
 ![](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Internships-2ea44f?style=flat-square)
@@ -148,7 +28,7 @@
 &nbsp;
 ![](https://img.shields.io/badge/%F0%9F%8E%AF%20Focus-DSA%20%2B%20Full%20Stack-0ea5e9?style=flat-square)
 &nbsp;
-![](https://komarev.com/ghpvc/?username=anoopcodehack&label=Profile+Views&color=0d1117&style=flat-square&labelColor=0d1117)
+![](https://komarev.com/ghpvc/?username=anoopcodehack&label=Profile+Views&color=0d1117&style=flat-square)
 
 </div>
 
@@ -181,8 +61,8 @@ const anoop = {
     "Reads docs fast. Debugs faster. Learns fastest.",
   ],
 
-  goal      : "Crack placements with strong DSA + real-world projects 🎯",
-  quote     : "I don't just write code that works — I write code that SCALES.",
+  goal  : "Crack placements with strong DSA + real-world projects 🎯",
+  quote : "I don't just write code that works — I write code that SCALES.",
 };
 ```
 
@@ -327,6 +207,40 @@ current_sprint = {
 
 </div>
 
+<br/>
+
+---
+
+<!-- ══ PLACEMENT ROADMAP ══ -->
+
+## 🎯 Placement Roadmap
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                   🎯  PLACEMENT PREP                     │
+├──────────────────────────────────────────────────────────┤
+│  📍 RIGHT NOW                                            │
+│  ├── 🟢  DSA Foundations  →  Arrays · Trees · Graphs    │
+│  ├── 🟢  C / C++ — daily practice + problem solving     │
+│  ├── 🟡  React & Next.js — components, hooks, routing   │
+│  └── 🟡  Firebase & Supabase — real integration         │
+│                                                          │
+│  📍 NEXT                                                 │
+│  ├── 🔵  Full-stack project deployed on Vercel          │
+│  ├── 🔵  100+ DSA problems solved consistently          │
+│  └── 🔵  Open source PRs merged                         │
+│                                                          │
+│  📍 PLACEMENT READY  🏆                                  │
+│  ├── ⬜  300+ DSA problems                              │
+│  ├── ⬜  3+ live projects with clean code               │
+│  └── ⬜  Strong GitHub profile + polished resume        │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
 <!-- ══ TROPHIES ══ -->
 
 ## 🏆 GitHub Trophies
@@ -350,10 +264,54 @@ current_sprint = {
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
+
+<details>
+<summary>⚙️ How to activate the snake animation (click to expand)</summary>
+
+<br/>
+
+**1.** In your profile repo, create this file path:
+```
+.github/workflows/snake.yml
+```
+
+**2.** Paste this content into `snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: anoopcodehack
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**3.** Go to **Actions tab** → click **Generate Snake Animation** → **Run workflow** 🎉
+
+</details>
+
+<br/>
+
+---
 
 <!-- ══ CONNECT ══ -->
 
@@ -376,8 +334,7 @@ current_sprint = {
 
 ---
 
-<!-- ══ RANDOM DEV QUOTE ══ -->
-
+<!-- ══ DEV QUOTE ══ -->
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -387,32 +344,8 @@ current_sprint = {
 <br/>
 
 <!-- ══ FOOTER BANNER ══ -->
-
 <div align="center">
 
-<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footbg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#0a3d2e"/>
-      <stop offset="50%"  stop-color="#0f2d3d"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="100" rx="16" ry="16" fill="url(#footbg)"/>
-  <!-- Top wave -->
-  <path d="M0 30 Q225 10 450 30 Q675 50 900 30 L900 0 L0 0 Z" fill="rgba(0,217,255,0.05)"/>
-  <text x="450" y="52"
-    font-family="'Segoe UI', system-ui, sans-serif"
-    font-size="18" font-weight="600"
-    fill="#ffffff" text-anchor="middle" letter-spacing="1">
-    Building step by step, every single day 🚀
-  </text>
-  <text x="450" y="76"
-    font-family="'Segoe UI', system-ui, sans-serif"
-    font-size="12" font-weight="300"
-    fill="rgba(0,217,255,0.6)" text-anchor="middle" letter-spacing="3">
-    ANOOP A  ·  anoopcodehack  ·  2026
-  </text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d2e,100:0f2d3d&height=130&section=footer&text=Building%20step%20by%20step%2C%20every%20single%20day%20%F0%9F%9A%80&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
