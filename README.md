@@ -1,88 +1,109 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              ANOOP A — GitHub Profile README              -->
-<!--           anoopcodehack | Placement-Ready Version         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================
+     ANOOP A  |  anoopcodehack  |  GitHub Profile README
+     Placement-Ready · Professional · Stands Out
+============================================================ -->
 
+<!-- ══ ANIMATED HEADER ══ -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Anoop%20A&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20C%2B%2B%20%26%20Web%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Mangaluru%2C%20India&descSize=17&descAlignY=62&descColor=aaaaaa&animation=twinkling" />
+</div>
+
+<!-- ══ TYPING ANIMATION ══ -->
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Hi%20there%2C%20I'm%20Anoop%20%F0%9F%91%8B&fontSize=42&fontColor=c8f000&fontAlignY=38&desc=C%2B%2B%20%26%20Web%20Developer%20%7C%20CS%20Student%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=16&descColor=aaaaaa&animation=fadeIn" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%F0%9F%8E%93+2nd+Year+Engineering+Student;%F0%9F%94%A5+DSA+%26+Problem+Solving+in+C+%2F+C%2B%2B;%F0%9F%8C%90+React+%E2%80%A2+Next.js+%E2%80%A2+Firebase+%E2%80%A2+Supabase;%E2%9C%A8+Building+projects+that+scale+%26+make+sense;%F0%9F%9A%80+Aspiring+Software+Developer)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
+<!-- ══ QUICK BADGES ══ -->
 <div align="center">
 
-### 🚀 Aspiring Software Developer · Building Step by Step
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C8F000&center=true&vCenter=true&width=700&lines=2nd+Year+Engineering+Student+%F0%9F%8E%93;DSA+%26+Problem+Solving+in+C+%2F+C%2B%2B;Frontend+Web+Developer+%F0%9F%8C%90;React+%7C+Next.js+%7C+Firebase+%7C+Supabase;Clean+Code.+Strong+Foundations.+Real+Growth.)](https://git.io/typing-svg)
+![](https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat-square&logo=checkmarx&logoColor=white)
+![](https://img.shields.io/badge/Focus-DSA%20%2B%20Full%20Stack-blue?style=flat-square&logo=target&logoColor=white)
+![](https://img.shields.io/badge/Location-Mangaluru%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/Pronouns-he%2Fhim-purple?style=flat-square)
+![](https://komarev.com/ghpvc/?username=anoopcodehack&label=Profile+Views&color=0e75b6&style=flat-square)
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+<!-- ══ ABOUT ══ -->
 
-```cpp
-// anoop.cpp — Who I am
+## 🙋‍♂️ Who Am I?
 
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
+```js
+const anoop = {
+  name         : "Anoop A",
+  alias        : "anoopcodehack",
+  role         : "2nd Year CS Engineering Student",
+  location     : "Mangaluru, India 🇮🇳",
+  education    : "B.E. Computer Science — 2nd Year",
 
-class Anoop {
-public:
-    string name        = "Anoop A";
-    string username    = "anoopcodehack";
-    string location    = "Mangaluru, India 📍";
-    string education   = "B.E. Computer Science — 2nd Year";
-    string pronouns    = "he / him";
+  currentlyLearning: [
+    "DSA — Arrays, Strings, Recursion, STL, Pointers",
+    "React & Next.js — component patterns, hooks, routing",
+    "Firebase & Supabase — auth, database, real-time",
+    "Git workflow & open-source contribution",
+  ],
 
-    vector<string> currently_learning = {
-        "DSA — Arrays, Strings, Recursion, STL, Pointers",
-        "React & Next.js fundamentals",
-        "APIs, Firebase, Supabase",
-        "Git & GitHub workflow"
-    };
+  strengths: [
+    "Strong problem-solving mindset (C / C++)",
+    "Solid CS fundamentals — OS, DBMS, Networks",
+    "Converting ideas → working, scalable UI",
+    "Debugging fast. Reading docs. Learning faster.",
+  ],
 
-    vector<string> goals = {
-        "Strong DSA foundation for placements",
-        "Build scalable frontend projects",
-        "Contribute to open source",
-        "Write code that scales and makes sense"
-    };
-
-    string fun_fact = "I don't just write code that works—I write code that SCALES.";
+  philosophy: "I don't just write code that works — I write code that SCALES.",
+  goal       : "Crack placements with strong DSA + real projects 🎯",
 };
 ```
 
+<br/>
+
 ---
 
-## 🧠 Core Strengths
+<!-- ══ STATS ROW ══ -->
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 💡 Strength | 📝 Details |
-|:---|:---|
-| **DSA & Problem Solving** | Strong mindset in C / C++ — Arrays, Strings, Recursion, STL, Pointers |
-| **CS Fundamentals** | Solid understanding of core computer science concepts |
-| **Frontend Development** | Converting ideas → working, scalable UI |
-| **Learning Agility** | Comfortable reading docs, debugging, and learning fast |
-| **Clean Code** | Focus on readability and scalability over rushing features |
+<img src="https://github-readme-stats.vercel.app/api?username=anoopcodehack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="185" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopcodehack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" height="185" />
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopcodehack&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9" width="600"/>
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anoopcodehack&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true)](https://github.com/anoopcodehack)
+
+</div>
+
+<br/>
+
 ---
+
+<!-- ══ TECH STACK ══ -->
 
 ## 🛠️ Tech Stack
 
-### 🔤 Languages
+### 💻 Languages
 <div align="left">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00427B?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -98,7 +119,7 @@ public:
 
 </div>
 
-### ⚙️ Backend / BaaS
+### ☁️ Backend & BaaS
 <div align="left">
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -117,136 +138,206 @@ public:
 
 </div>
 
+<br/>
+
 ---
+
+<!-- ══ CORE STRENGTHS ══ -->
+
+## 🧠 Core Strengths
+
+<div align="center">
+
+| 🔢 | 💡 Strength | 📌 Detail |
+|:---:|:---|:---|
+| `01` | **DSA & Problem Solving** | C / C++ · Arrays · Strings · Recursion · STL · Pointers |
+| `02` | **CS Fundamentals** | Strong grasp on core computer science concepts |
+| `03` | **Frontend Development** | Ideas → working, scalable, clean UI |
+| `04` | **Code Quality** | Clean, readable, maintainable over rushed features |
+| `05` | **Learning Speed** | Comfortable with docs, debugging & picking up new tech fast |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══ PROBLEM SOLVING ══ -->
+
+## 📈 Problem Solving & DSA
+
+<div align="center">
+
+> ### *"I don't just write code that works — I write code that **scales and makes sense**."*
+
+</div>
+
+<br/>
+
+**Consistent practice in:**
+
+```
+✅  Arrays & Strings         →  Traversal · Sliding window · Two pointer
+✅  Recursion                →  Base cases · Call stack · Tree recursion
+✅  STL (C++)                →  Vector · Map · Set · Pair · Algorithms
+✅  Pointers & Memory        →  Dynamic allocation · Pointer arithmetic
+✅  Complexity Analysis      →  Time & Space · Big-O · Trade-off thinking
+✅  Debugging mindset        →  Dry runs · Edge cases · Systematic testing
+```
+
+<br/>
+
+---
+
+<!-- ══ CURRENTLY DOING ══ -->
 
 ## 📌 What I'm Currently Doing
 
+```python
+current_sprint = {
+    "dsa"       : "Deepening foundations — recursion, STL, trees  🌲",
+    "language"  : "Daily C / C++ practice for logic & core CS  💪",
+    "frontend"  : "Building small-to-medium React / Next.js projects  ⚛️",
+    "backend"   : "Learning Firebase & Supabase — auth, DB, real-time  🔥",
+    "mindset"   : "Clean code. Quality > speed. Understand before copy.  🧠",
+}
 ```
-🔵  Deepening DSA foundations — Arrays · Strings · Recursion · STL · Pointers
-🔵  Practicing C / C++ daily for logic building and core CS
-🔵  Building small-to-medium frontend projects to strengthen my basics
-🔵  Learning APIs, Firebase, and Supabase integration
-🔵  Writing clean, readable, scalable code — quality over speed
-```
+
+<br/>
 
 ---
 
-## 📈 Problem Solving
-
-<div align="center">
-
-> *"I don't just write code that works — I write code that **scales and makes sense**."*
-
-</div>
-
-**Areas of consistent practice:**
-
-- ✅ **Arrays & Strings** — Traversal, searching, manipulation
-- ✅ **Recursion** — Base cases, call stacks, tree recursion
-- ✅ **STL (C++)** — Vectors, maps, sets, pairs, algorithms
-- ✅ **Pointers & Memory** — Dynamic memory, pointer arithmetic
-- ✅ **Time & Space Complexity** — Big-O analysis, trade-off thinking
-- ✅ **Debugging mindset** — Dry runs, edge cases, systematic testing
-
----
+<!-- ══ PROJECTS ══ -->
 
 ## 📂 Projects
 
-> 🏗️ Currently in my **learning & building phase**.
-> Projects here reflect my **real progress**, not inflated claims.
+> 🏗️ **Currently in learning & building phase.**
+> Every project here reflects **real progress — not inflated claims.**
 
 <div align="center">
 
-| 🔹 Project | 🛠️ Tech | 📋 Status |
-|:---|:---|:---|
-| **Learning Project — Frontend** | HTML · CSS · JavaScript · React | 🔄 In Progress |
-| **DSA Practice Repo** | C / C++ | 🔄 Ongoing |
-| **API Integration Project** | React · Firebase · Supabase | 🔜 Coming Soon |
+| 🔹 Project | ⚙️ Stack | 📋 Status |
+|:---|:---|:---:|
+| **Frontend Learning Project** | HTML · CSS · JavaScript · React | 🔄 In Progress |
+| **DSA Practice Repository** | C / C++ | 🔄 Active |
+| **Full-Stack App** | Next.js · Supabase · Firebase | 🔜 Coming Soon |
+| **Open Source Contributions** | GitHub · 26 Repos | ✅ Ongoing |
 
 </div>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ══ ROADMAP ══ -->
 
-<div align="center">
+## 🧭 Placement Roadmap
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoopcodehack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c8f000&icon_color=c8f000&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopcodehack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c8f000&text_color=ffffff" />
+```
+┌─────────────────────────────────────────────────────────┐
+│                    🎯  PLACEMENT PREP                    │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  📍 RIGHT NOW                                           │
+│  ├── 🟢  DSA Foundations  (Arrays → Trees → Graphs)    │
+│  ├── 🟢  C / C++ daily practice + problem solving      │
+│  ├── 🟡  React & Next.js — components, hooks, routing  │
+│  └── 🟡  Firebase & Supabase — real-world integration  │
+│                                                         │
+│  📍 NEXT MILESTONE                                      │
+│  ├── 🔵  Full-stack project deployed on Vercel         │
+│  ├── 🔵  100+ DSA problems solved consistently         │
+│  └── 🔵  Open source pull requests merged              │
+│                                                         │
+│  📍 PLACEMENT READY  ✅                                 │
+│  ├── ⬜  300+ DSA problems solved                      │
+│  ├── ⬜  3+ real, live projects with clean code        │
+│  └── ⬜  Strong GitHub profile + resume ready          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopcodehack&theme=tokyonight&hide_border=true&background=0d0d0d&ring=c8f000&fire=c8f000&currStreakLabel=c8f000" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anoopcodehack&theme=tokyo-night&bg_color=0d0d0d&color=c8f000&line=c8f000&point=ffffff&hide_border=true)
-
-</div>
+<br/>
 
 ---
+
+<!-- ══ TROPHIES ══ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=anoopcodehack&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=anoopcodehack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
+
+<br/>
 
 ---
 
-## 🧭 Current Focus Roadmap
+<!-- ══ CONNECT ══ -->
 
-```
-📍 RIGHT NOW
-├── 🟢  DSA Foundations (Arrays → Recursion → Trees)
-├── 🟢  C / C++ — daily practice + problem solving
-├── 🟡  React & Next.js — component patterns, routing, state
-└── 🟡  Firebase & Supabase — auth, db, real-time features
+## 📬 Let's Connect
 
-📍 NEXT UP
-├── 🔵  Full-stack project (Next.js + Supabase)
-├── 🔵  Consistent competitive programming
-└── 🔵  Open source contributions
+<div align="center">
 
-📍 PLACEMENT PREP
-├── ⬜  300+ DSA problems solved
-├── ⬜  3+ solid projects live
-└── ⬜  Strong Git workflow + clean profile
-```
+[![GitHub](https://img.shields.io/badge/GitHub-anoopcodehack-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/anoopcodehack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-a-95b7b3331/)
+
+<br/>
+
+> 💼 **Open to internships, collaborations, and project opportunities.**
+> Feel free to reach out — I respond fast! ⚡
+
+</div>
+
+<br/>
 
 ---
 
-## 📬 Connect With Me
+<!-- ══ QUOTE ══ -->
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-anoopcodehack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anoopcodehack)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-a-95b7b3331/)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
----
+<br/>
+
+<!-- ══ FOOTER WAVE ══ -->
 
 <div align="center">
 
-<!-- Profile view counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=anoopcodehack&label=Profile+Views&color=c8f000&style=flat)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/anoopcodehack?label=Followers&style=social)
-&nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/anoopcodehack?label=Stars&style=social)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=Building+step+by+step%2C+every+single+day+%F0%9F%9A%80&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
 
 </div>
 
-<div align="center">
+<!-- ══ SNAKE CONTRIBUTION GRAPH (add via GitHub Actions) ══ -->
+<!--
+To enable the snake animation on your profile:
+1. Create folder: .github/workflows/
+2. Create file: snake.yml with this content:
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&text=Building%20step%20by%20step%2C%20every%20single%20day.&fontSize=16&fontColor=c8f000&fontAlignY=65&animation=fadeIn" />
+name: Generate Snake
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: anoopcodehack
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-</div>
+Then add this line to README:
+<img src="https://raw.githubusercontent.com/anoopcodehack/anoopcodehack/output/github-contribution-grid-snake.svg" />
+-->
