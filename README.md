@@ -67,9 +67,6 @@ const anoop = {
     "Ideas → working, scalable UI",
     "Reads docs fast. Debugs faster. Learns fastest.",
   ],
-
-  goal  : "Crack placements with strong DSA + real-world projects 🎯",
-  quote : "I don't just write code that works — I write code that SCALES.",
 };
 ```
 
