@@ -126,52 +126,6 @@ const anoop = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<br/>
-
----
-
-<!-- ══ CORE STRENGTHS ══ -->
-
-## 🧠 Core Strengths
-
-<div align="center">
-
-| # | 💡 Strength | 📌 Detail |
-|:---:|:---|:---|
-| `01` | **DSA & Problem Solving** | C / C++ · Arrays · Strings · Recursion · STL · Pointers |
-| `02` | **CS Fundamentals** | Strong grasp on core computer science concepts |
-| `03` | **Frontend Development** | Ideas → working, scalable, clean UI |
-| `04` | **Code Quality** | Readable, maintainable code over rushing features |
-| `05` | **Learning Speed** | Docs · debugging · new tech — all fast |
-
-</div>
-
-<br/>
-
----
-
-<!-- ══ PROBLEM SOLVING ══ -->
-
-## 📈 Problem Solving & DSA
-
-<div align="center">
-
-> *"I don't just write code that works — I write code that **scales and makes sense**."*
-
-</div>
-
-```
-✅  Arrays & Strings     →  Traversal · Sliding window · Two pointer
-✅  Recursion            →  Base cases · Call stack · Tree recursion
-✅  STL ( C++ )          →  Vector · Map · Set · Pair · Algorithms
-✅  Pointers & Memory    →  Dynamic allocation · Pointer arithmetic
-✅  Complexity Analysis  →  Time & Space · Big-O · Trade-off thinking
-✅  Debugging mindset    →  Dry runs · Edge cases · Systematic testing
-```
-
-<br/>
-
----
 
 <!-- ══ CURRENTLY DOING ══ -->
 
