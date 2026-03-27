@@ -123,41 +123,6 @@ const anoop = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
-<!-- ══ CURRENTLY DOING ══ -->
-
-## 📌 Currently Working On
-
-```python
-current_sprint = {
-  "dsa"      : "Deepening foundations — arrays → recursion → trees  🌲",
-  "language" : "Daily C / C++ — logic building & core CS  💪",
-  "frontend" : "React / Next.js — real components, not tutorials  ⚛️",
-  "backend"  : "Firebase & Supabase — auth, DB, real-time apps  🔥",
-  "mindset"  : "Clean code · quality over speed · understand before copy  🧠",
-}
-```
-
-<br/>
-
----
-
-<!-- ══ PROJECTS ══ -->
-
-## 📂 Projects
-
-> 🏗️ **Learning & building phase** — every project reflects real progress, not inflated claims.
-
-<div align="center">
-
-| 🔹 Project | ⚙️ Stack | 📋 Status |
-|:---|:---|:---:|
-| **Frontend Learning Project** | HTML · CSS · JavaScript · React | 🔄 In Progress |
-| **DSA Practice Repository** | C / C++ | 🔄 Active |
-| **Full-Stack App** | Next.js · Supabase · Firebase | 🔜 Coming Soon |
-| **Open Source Contributions** | GitHub · 26 Repos | ✅ Ongoing |
-
-</div>
 <!-- ══ TROPHIES ══ -->
 
 ## 🏆 GitHub Trophies
