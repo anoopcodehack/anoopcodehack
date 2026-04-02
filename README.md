@@ -20,7 +20,7 @@
 <!-- ══ ANIMATED SUBTITLE ══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C8F000&center=true&vCenter=true&width=800&lines=DSA+%26+Problem+Solving+in+C+%2F+C%2B%2B+%F0%9F%94%A5;React+%E2%80%A2+Next.js+%E2%80%A2+Firebase+%E2%80%A2+Supabase+%E2%9A%9B%EF%B8%8F;Building+real+projects%2C+not+just+tutorials+%F0%9F%8C%90;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C8F000&center=true&vCenter=true&width=800&lines=React+%E2%80%A2+Next.js+%E2%80%A2+Firebase+%E2%80%A2+Supabase+%E2%9A%9B%EF%B8%8F;Building+real+projects%2C+not+just+tutorials+%F0%9F%8C%90;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
