@@ -175,7 +175,10 @@ const anoop = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-anoopcodehack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anoopcodehack)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-a-95b7b3331/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-a-95b7b3331/) &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-anoop-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mic_anoop) &nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-anoop_a-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anoop_a/)
+&nbsp;
 
 <br/>
 
