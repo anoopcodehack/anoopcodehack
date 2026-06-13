@@ -131,11 +131,9 @@ const anoop = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=anoopcodehack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anoopcodehack&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 <br/>
 
