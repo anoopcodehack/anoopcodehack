@@ -20,7 +20,7 @@
 <!-- ══ ANIMATED SUBTITLE ══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C8F000&center=true&vCenter=true&width=800&lines=React+%E2%80%A2+Next.js+%E2%80%A2+Firebase+%E2%80%A2+Supabase+%E2%9A%9B%EF%B8%8F;Building+real+projects%2C+not+just+tutorials+%F0%9F%8C%90;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C8F000&center=true&vCenter=true&width=800&lines=React+%E2%80%A2+Next.js+%E2%80%A2+MongoDB+%E2%80%A2+Supabase+%E2%9A%9B%EF%B8%8F;Building+real+projects%2C+not+just+tutorials+%F0%9F%8C%90;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,8 +53,13 @@ const anoop = {
   alias        : "anoopcodehack",
   role         : "3rd Year CS Engineering Student",
   location     : "Mangaluru, India 🇮🇳",
-
-  currentlyLearning : [
+builds : [
+    "Full-stack MERN apps with real auth, RBAC & analytics dashboards",
+    "Blockchain-based traceability & credentialing systems (Ethereum/Solidity)",
+    "AI-integrated tools using Gemini & Claude APIs",
+    "Freelance client products - from design to deployment",
+  ],
+currentlyLearning : [
     "DSA — Arrays · Strings · Recursion · STL · Pointers",
     "React & Next.js — hooks · routing · state management",
     "Firebase & Supabase — auth · database · real-time",
@@ -62,10 +67,10 @@ const anoop = {
   ],
 
   strengths : [
-    "Strong DSA & problem-solving mindset (C / C++)",
-    "Solid CS fundamentals",
-    "Ideas → working, scalable UI",
-    "Reads docs fast. Debugs faster. Learns fastest.",
+    "Ships complete, deployed products, not just tutorials",
+    "Consistent brutalist design system across every project",
+    "Fast learner across new stacks (Web3, AI APIs, real-time systems)",
+    "Leads GFG Campus Mantri initiatives on top of coursework + freelancing",
   ],
 };
 ```
@@ -73,16 +78,14 @@ const anoop = {
 <br/>
 
 ---
-
 <!-- ══ GITHUB STATS ══ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoopcodehack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopcodehack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoopcodehack&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopcodehack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -105,6 +108,7 @@ const anoop = {
 ![C++](https://img.shields.io/badge/C++-00427B?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -118,6 +122,12 @@ const anoop = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
+
+### AI Integration
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
