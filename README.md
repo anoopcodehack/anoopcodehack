@@ -20,7 +20,7 @@
 <!-- ══ ANIMATED SUBTITLE ══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C8F000&center=true&vCenter=true&width=800&lines=React+%E2%80%A2+Next.js+%E2%80%A2+MongoDB+%E2%80%A2+Supabase+%E2%9A%9B%EF%B8%8F;Building+real+projects%2C+not+just+tutorials+%F0%9F%8C%90;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C8F000&center=true&vCenter=true&width=800&lines=React+%E2%80%A2+Next.js+%E2%80%A2+MongoDB+%E2%80%A2+Express+%E2%9A%9B%EF%B8%8F;%E2%80%A2+Blockchain+%E2%80%A2+AI-Integrated+Apps;Building+real+projects%2C+not+just+tutorials+%F0%9F%8C%90;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
