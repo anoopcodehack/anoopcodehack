@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Anoop+A+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎓 2nd Year CS Student &nbsp;|&nbsp; Mangaluru, India</h3>
+<h3 align="center">🎓 3rd Year CS Student &nbsp;|&nbsp; Mangaluru, India</h3>
 
 <br/>
 
@@ -51,7 +51,7 @@
 const anoop = {
   name         : "Anoop A",
   alias        : "anoopcodehack",
-  role         : "2nd Year CS Engineering Student",
+  role         : "3rd Year CS Engineering Student",
   location     : "Mangaluru, India 🇮🇳",
 
   currentlyLearning : [
@@ -114,6 +114,8 @@ const anoop = {
 
 ### ☁️ Backend & BaaS
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -121,6 +123,7 @@ const anoop = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
