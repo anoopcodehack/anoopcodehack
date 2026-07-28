@@ -41,8 +41,11 @@
 
 <br/>
 
----
 
+---
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZpejgycGVnaWc2aHV0cmtycGFqbjN2NHJuZHh1bTRmajA0enBwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHYNyjAqrqkzm/giphy.gif" width="600">
+</p>
 <!-- ══ ABOUT ME ══ -->
 
 ## 👨‍💻 About Me
