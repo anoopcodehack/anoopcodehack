@@ -151,29 +151,7 @@ currentlyLearning : [
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-<!-- ══ TROPHIES ══ -->
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anoopcodehack&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
-<br/>
-
----
-
-<!-- ══ ACTIVITY GRAPH ══ -->
-
-## 📉 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anoopcodehack&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/anoopcodehack)
-
-</div>
-
-<br/>
 
 ---
 
