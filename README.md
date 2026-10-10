@@ -36,6 +36,7 @@
 ![](https://img.shields.io/badge/Focus-DSA%20%2B%20Full%20Stack-0ea5e9?style=flat-square)
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=anoopcodehack&label=Profile+Views&color=0e75b6&style=flat-square)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=anoopcodehack.anoopcodehack&left_color=gray&right_color=0e75b6&left_text=Profile%20Views" alt="Profile Views" />
 
 </div>
 
